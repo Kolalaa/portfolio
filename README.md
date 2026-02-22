@@ -10,7 +10,7 @@ Aquí encontrarás ejemplos de mi trabajo, desde páginas web hasta pequeños pr
 
 Puedes visitar mi portfolio online aquí:
 
-[https://github.com/Kolalaa](https://github.com/Kolalaa)
+[https://kolalaa.github.io/portfolio/](https://kolalaa.github.io/portfolio/)
 
 ---
 
