@@ -33,7 +33,7 @@ Puedes visitar mi portfolio online aquí:
 
 Si quieres contactarme, puedes hacerlo a través de:
 
-- Correo: [Aaron]`aaronmelladoberruezo@gmail.com.com`
+- Correo: `aaronmelladoberruezo@gmail.com.com`
 - GitHub: [Aaron](https://github.com/Kolalaa)
 
 ---
