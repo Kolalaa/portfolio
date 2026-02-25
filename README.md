@@ -1,4 +1,4 @@
-# Portfolio de Aaron (Kaazen)
+# Portfolio de Aaron
 
 ¡Hola! 👋 Soy **Aaron**, y este es mi portfolio personal donde muestro mis proyectos de desarrollo web y programación.
 
