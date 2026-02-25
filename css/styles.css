@@ -87,10 +87,70 @@ section {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
+#trayectoria , #contact{
+   background-color: var(--bg-secondary);
+}
+
+
+
+.timeline-section {
+    background: #111827;
+    color: #f3f4f6;
+}
+
+.timeline {
+    position: relative;
+    max-width: 800px;
+    margin: auto;
+    padding-left: 20px;
+    border-left: 3px solid #3b82f6;
+}
+
+.timeline-item {
+    position: relative;
+    margin-bottom: 40px;
+    padding-left: 20px;
+}
+
+.timeline-item::before {
+    content: "";
+    position: absolute;
+    left: -11px;
+    top: 5px;
+    width: 15px;
+    height: 15px;
+    background: #3b82f6;
+    border-radius: 50%;
+}
+
+.timeline-content h5 {
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.timeline-date {
+    font-size: 0.9rem;
+    color: #9ca3af;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.timeline-content p {
+    margin: 0;
+    color: #d1d5db;
+}
+
 
 .project-card:hover {
     transform: translateY(-8px);
     box-shadow: 0 0 25px rgba(0, 170, 255, 0.3);
+}
+
+.project-card img {
+    height: 100%;          /* Altura fija */
+    width: 100%;            /* Ocupa todo el ancho de la card */
+    object-fit: contain;    /* Mantiene proporción sin recortar */
+    padding: 15px;          /* Espacio interno opcional */
 }
 
 /*keyframes*/
